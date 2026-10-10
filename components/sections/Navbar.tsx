@@ -8,7 +8,7 @@ import { useState } from "react";
 const links = [
   { label: "How it works", href: "#how-it-works" },
   { label: "Why WellOra", href: "#why-wellora" },
-  { label: "Network", href: "#network" },
+  { label: "Experts", href: "#experts" },
   { label: "FAQ", href: "#faq" },
 ];
 
