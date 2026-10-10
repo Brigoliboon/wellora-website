@@ -7,7 +7,7 @@ import { useState } from "react";
 
 const links = [
   { label: "How it works", href: "#how-it-works" },
-  { label: "Kits", href: "#kits" },
+  { label: "Why WellOra", href: "#why-wellora" },
   { label: "Network", href: "#network" },
   { label: "FAQ", href: "#faq" },
 ];
@@ -25,7 +25,7 @@ export default function Navbar() {
             width={168}
             height={33}
             priority
-            className="h-8 w-auto"
+            className="h-6 md:h-8 w-auto"
           />
         </Link>
 
